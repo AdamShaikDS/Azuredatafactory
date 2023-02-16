@@ -1,0 +1,7 @@
+{
+	"name": "AzureBlobStorage649",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/3b7972e9-2972-4ce2-9efc-da8397b7a4e0/resourceGroups/Data_engineer/providers/Microsoft.Storage/storageAccounts/storageaccount15022023",
+		"groupId": "blob"
+	}
+}
